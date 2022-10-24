@@ -1,0 +1,10 @@
+Below we find a conversation between Ray Bradbury and Umberto Eco as well as an initial synopsis of a story.  Create a new synopsis of the story based on the discussion below, make it as extensive as necessary to not lose any details.  The part where the character wakes up in the future from being croygenically frozen remains unchanged. There should be no mention of time travel whatsoever.
+
+<<SUMMARY>>
+
+CONVERSATION:
+
+<<CONVO>>
+
+
+NEW FULLY DETAILED STORY:
