@@ -4,6 +4,14 @@ The goal of this script is to write a plot story using an initial idea given by 
 In the example we include in the repo, under ```first_synopsis.txt```, we provide a short idea about 
 a character that is cryopreserved and wakes up in the future.  The program takes it from there.
 
+## How to run
+
+1. Update the ```txt``` files to change the initial synopsis, the authors and anything else you would like to customize.
+2. Specify how many iterations of the loop should be run.  This can be changed in ```experiment.py``` in the first line of the main script.
+3. Run the ```experiment.py``` file from the terminal
+4. You will be able to see logs, conversations and summaries for each of the loops in the corresponding folders
+5. If you want to re-run, delete all logs from those folders.  I included example logs in the repo, so delete those before your first run.
+
 
 ## Method
 In order to understand why the plot is the way it is, and what was the reasoning and ideas 
