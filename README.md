@@ -10,7 +10,7 @@ a character that is cryopreserved and wakes up in the future.  The program takes
 2. Specify how many iterations of the loop should be run.  This can be changed in ```experiment.py``` in the first line of the main script.
 3. Run the ```experiment.py``` file from the terminal
 4. You will be able to see logs, conversations and summaries for each of the loops in the corresponding folders
-5. If you want to re-run, delete all logs from those folders.  I included example logs in the repo, so delete those before your first run.
+5. If you want to re-run, delete all logs from those folders.  I included example logs in the repo, so delete those before your first run.  Before every run, those folders need to be emptied.
 
 
 ## Method
