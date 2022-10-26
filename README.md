@@ -2,7 +2,7 @@
 
 The goal of this script is to write a plot story using an initial idea given by the user.
 In the example we include in the repo, under ```first_synopsis.txt```, we provide a short idea about 
-a character that is cryopreserved and wakes up in the future.  The program takes it from there.
+a character that is cryopreserved and wakes up in the future.  The program takes it from there to expand it.
 
 ## How to run
 
